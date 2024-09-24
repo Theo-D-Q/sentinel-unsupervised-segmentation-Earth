@@ -25,3 +25,7 @@ If you need to plot an RGB image for sentinel-2 data, use the function defined i
     img = tifffile.imread('sentinel-2_file.tif')
     plot_image(img[:,:,[3,2,1]], factor = 3.5/1e4, vmax = 1)
 The layers 1-3 can be substituted with any other layers; factor increases or decreases brightness.
+
+******* IMPORTANT *******
+The code for the unsupervised learning model was written by Sudipan Saha (GitHub: sudipansaha).
+Citation: Saha et al, 2022
