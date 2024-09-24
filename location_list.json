@@ -1,0 +1,14 @@
+{
+    "death_valley_small_test": {
+        "coordinates": [-116.89, 36.07, -116.73, 36.18],
+        "area" : "death_valley_small_test",
+        "start_date" : "2024-06-01",
+        "end_date" : "2024-08-01"
+    },
+    "death_valley_large_test": {
+        "coordinates": [-116.89, 35.07, -116.73, 36.18],
+        "area" : "death_valley_large_test",
+        "start_date" : "2024-06-01",
+        "end_date" : "2024-08-01"
+    }
+}
